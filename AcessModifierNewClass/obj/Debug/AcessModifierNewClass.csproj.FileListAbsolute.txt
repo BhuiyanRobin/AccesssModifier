@@ -1,0 +1,5 @@
+C:\Users\PC21\Desktop\AccesssModifier\AcessModifierNewClass\bin\Debug\AcessModifierNewClass.dll
+C:\Users\PC21\Desktop\AccesssModifier\AcessModifierNewClass\bin\Debug\AcessModifierNewClass.pdb
+C:\Users\PC21\Desktop\AccesssModifier\AcessModifierNewClass\obj\Debug\AcessModifierNewClass.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\AccesssModifier\AcessModifierNewClass\obj\Debug\AcessModifierNewClass.dll
+C:\Users\PC21\Desktop\AccesssModifier\AcessModifierNewClass\obj\Debug\AcessModifierNewClass.pdb

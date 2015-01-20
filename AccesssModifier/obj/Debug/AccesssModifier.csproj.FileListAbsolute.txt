@@ -1,0 +1,11 @@
+C:\Users\PC21\Desktop\AccesssModifier\AccesssModifier\bin\Debug\AccesssModifier.exe.config
+C:\Users\PC21\Desktop\AccesssModifier\AccesssModifier\bin\Debug\AccesssModifier.exe
+C:\Users\PC21\Desktop\AccesssModifier\AccesssModifier\bin\Debug\AccesssModifier.pdb
+C:\Users\PC21\Desktop\AccesssModifier\AccesssModifier\obj\Debug\AccesssModifier.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\AccesssModifier\AccesssModifier\obj\Debug\AccesssModifier.Properties.Resources.resources
+C:\Users\PC21\Desktop\AccesssModifier\AccesssModifier\obj\Debug\AccesssModifier.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\AccesssModifier\AccesssModifier\obj\Debug\AccesssModifier.exe
+C:\Users\PC21\Desktop\AccesssModifier\AccesssModifier\obj\Debug\AccesssModifier.pdb
+C:\Users\PC21\Desktop\AccesssModifier\AccesssModifier\obj\Debug\AccesssModifier.Form1.resources
+C:\Users\PC21\Desktop\AccesssModifier\AccesssModifier\bin\Debug\AcessModifierNewClass.dll
+C:\Users\PC21\Desktop\AccesssModifier\AccesssModifier\bin\Debug\AcessModifierNewClass.pdb
